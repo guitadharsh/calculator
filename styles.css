@@ -101,3 +101,14 @@ button{
 }
 
 
+@media  screen and (max-width : 480px) {
+    
+    #container{
+        height: 100%;
+        width: 100%;
+    }
+
+}
+
+
+
