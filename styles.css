@@ -101,7 +101,7 @@ button{
 }
 
 
-@media  screen and (max-width : 480px) {
+@media  screen and (max-width : 590px) {
     
     #container{
         height: 100%;
